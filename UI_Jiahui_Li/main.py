@@ -3,6 +3,7 @@ Created on April 9th, 2023, 7:17:16 PM
 
 @author: Jiahui Li
 Edited by Alexandre Cayer on April 11th, 10:52pm
+
 """
 
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QLineEdit, QVBoxLayout, QWidget
